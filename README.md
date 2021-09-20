@@ -13,7 +13,8 @@
     </p>
 
 -------
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/F4R1S-YT/Alphabot7/)
+-------
 ## `ADD BUILDPACK`
 
 ```
